@@ -436,30 +436,6 @@ npm run lint -- --fix
 
 ## Deployment
 
-### Vercel (Recommended)
-
-EVMAuth is optimized for Vercel deployment:
-
-**1. Push to GitHub**
-```bash
-git add .
-git commit -m "Initial commit"
-git push origin main
-```
-
-**2. Deploy to Vercel**
-- Go to [vercel.com](https://vercel.com)
-- Click **"New Project"**
-- Import your GitHub repository
-- Add environment variable:
-  - `NEXT_PUBLIC_WALLETCONNECT_PROJECT_ID` = your_project_id
-- Click **"Deploy"**
-
-**3. Add contract address** (for real blockchain mode)
-- Go to Vercel project settings
-- Add `NEXT_PUBLIC_CONTRACT_ADDRESS` environment variable
-- Redeploy
-
 ### Build Locally
 
 Test production build before deployment:
