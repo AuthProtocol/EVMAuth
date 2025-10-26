@@ -35,8 +35,8 @@ Get EVMAuth running locally in under 2 minutes:
 
 ```bash
 # Clone and install
-git clone https://github.com/yourusername/evmauth.git
-cd evmauth
+git clone https://github.com/AuthProtocol/EVMAuth.git
+cd EVMAuth
 npm install
 
 # Set up environment
@@ -159,8 +159,8 @@ Start with mock mode to explore the interface, then deploy contracts for product
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/evmauth.git
-cd evmauth
+git clone https://github.com/AuthProtocol/EVMAuth.git
+cd EVMAuth
 ```
 
 **2. Install dependencies**
@@ -656,9 +656,9 @@ Built with these amazing open-source projects:
 
 ## Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/evmauth/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/evmauth/discussions)
-- **Documentation:** [Full Docs](https://github.com/yourusername/evmauth/wiki)
+- **Issues:** [GitHub Issues](https://github.com/AuthProtocol/EVMAuth/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/AuthProtocol/EVMAuth/discussions)
+- **Documentation:** [Full Docs](https://github.com/AuthProtocol/EVMAuth#readme)
 
 ---
 
