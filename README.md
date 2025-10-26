@@ -1,4 +1,4 @@
-# EVMAuth
+# AuthProtocol
 
 **Manage AI agent payments on-chain. Deploy in 5 minutes, test with mock data, or go live on BSC.**
 
