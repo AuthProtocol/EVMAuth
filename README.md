@@ -1,5 +1,8 @@
 # AuthProtocol
 
+X --> https://t.me/c/2543738939/12146
+Website --> https://authbnb.org
+
 **Manage AI agent payments on-chain. Deploy in 5 minutes, test with mock data, or go live on BSC.**
 
 A modern Web3 platform for authorizing and tracking AI agent payments with configurable spending limits, real-time activity feeds, and full smart contract integration on Binance Smart Chain.
